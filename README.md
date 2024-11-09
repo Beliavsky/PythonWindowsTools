@@ -1,5 +1,5 @@
 # PythonWindowsTools
-Python scripts to analyze Windows file system
+Python scripts to analyze the Windows file system
 
 Run ```python xfind_duplicates.py``` to
 ```
